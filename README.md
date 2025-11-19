@@ -2,6 +2,9 @@
 This project analyses Blinkit’s Grocery Sales Data using Power BI.
 The dashboard provides insights into sales performance, outlet performance, item categories, and customer ratings, helping businesses make better data-driven decisions.
 
+# Dashboard Preview
+<img width="1915" height="1019" alt="Screenshot 2025-11-20 000312" src="https://github.com/user-attachments/assets/83f537ee-34de-4b60-b70e-28cab4a6e6c8" />
+
 
 # Project Objective
  To build an interactive Power BI dashboard that answers key business questions:
@@ -91,16 +94,82 @@ Dataset file (CSV/Excel):
 README with complete project explanation
 Dashboard screenshot
 
-# Dashboard Preview
-<img width="1915" height="1019" alt="Screenshot 2025-11-20 000312" src="https://github.com/user-attachments/assets/83f537ee-34de-4b60-b70e-28cab4a6e6c8" />
+# Key Business Insights from the Blinkit Sales Dashboard
+ # 1. Overall Business Performance
 
-# Conclusion
-This Power BI dashboard provides a comprehensive view of Blinkit’s business performance.
-It enables stakeholders to:
-Understand customer buying behavior
-Compare outlet-wise performance
-Identify high-performing product categories
-Make informed business decisions using data insights
+Blinkit generated $1.20M in total sales.
+The platform offers 8523 items, indicating a wide product mix.
+Average sales per item are $141, showing strong buying capacity.
+The overall customer rating stands at 3.9, a moderate satisfaction level.
+
+# 2. Item Category Insights
+
+Fruits & Vegetables and Snack Foods are the top revenue-generating categories (≈ $0.18M each).
+Categories like Seafood, Breakfast, and Starchy Foods show very low sales, indicating:
+Limited demand
+Stocking or visibility issues
+Wrong customer targeting
+
+# 3. Fat Content Sales Pattern
+
+Regular Fat items contribute more to total sales (≈ $776K) than Low Fat items (≈ $425K).
+This suggests:
+Customers prefer regular variants
+Low-fat options could be marketed more
+Possibly higher margins in regular-fat items
+
+# 4. Outlet Size Performance
+
+Large (High) outlet size has the highest sales contribution: $507K.
+Small and Medium outlets combined contribute almost the same but still lag behind:
+Medium: $248K
+Small: $444K
+Indicates that larger outlets attract more footfall and higher purchasing power.
+
+# 5. Outlet Location Insights
+
+Tier 3 locations show the highest sales (≈ $472K).
+Tier 2 is second (≈ $393K), followed by Tier 1 (≈ $336K).
+This indicates:
+Higher adoption in suburban / semi-urban areas
+Competitive pricing suits Tier-3 customers
+Potential for expansion in Tier-3 geographies
+
+# 6. Outlet Establishment Year Trend
+
+Steady sales increase from 2010 to 2018.
+Peak at 2018 – $205K.
+Slight drop after 2018 but stabilizing around $129K–$131K in recent years.
+Suggests:
+Market saturation
+More competition
+Need for strategy refresh post-2018
+
+# 7. Outlet Type Insights
+
+Supermarket Type 1 generates the highest revenue: $787.55K.
+Grocery stores generate the lowest: $151.94K.
+Supermarket formats have:
+Higher visibility
+Better item variety
+Higher customer ratings (around 4)
+
+# 8. Customer Rating & Item Visibility
+
+Average visibility for top outlets is around 338.
+Outlets with higher visibility generally have higher sales, showing a positive correlation.
+Customer rating is fairly stable (≈4), meaning:
+Customer experience is consistent across outlet types
+Opportunity exists to push ratings above 4.5 through service improvements
+
+# Overall Conclusion
+
+The dashboard reveals that:
+Tier-3 locations and Large outlets are the strongest revenue drivers.
+Supermarket formats outperform grocery stores significantly.
+Customer awareness (visibility) strongly influences sales.
+Blinkit’s top-selling categories are fresh produce and snacks, while niche categories underperform.
+Post-2018, sales growth slowed, indicating a need for new expansion or marketing strategies.
 
 # Author
 Biswajit Das
