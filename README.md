@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Feb 19, 2026, 04_45_11 PM" src="https://github.com/user-attachments/assets/73a77cd6-deef-44b7-871a-4592b41f56ee" />
+
 # Blinkit-E-Commerce-Project
 This project analyses Blinkit’s Grocery Sales Data using Power BI.
 The dashboard provides insights into sales performance, outlet performance, item categories, and customer ratings, helping businesses make better data-driven decisions.
